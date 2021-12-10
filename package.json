@@ -2,7 +2,7 @@
   "name": "monsters-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://WocketMan0351.github.io/React-Monsters-App",
+  "homepage": "https://WocketMan0351.github.io/react-monsters-app",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
